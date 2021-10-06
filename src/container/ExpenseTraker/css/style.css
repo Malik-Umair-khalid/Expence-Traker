@@ -1,0 +1,30 @@
+.main {
+  color: white;
+}
+.hight {
+  height: 80vh;
+}
+.my_border {
+  border-left: 1px solid gray;
+}
+.border_bottom {
+  border-bottom: 1px solid gray;
+  padding: 60px !important;
+  padding-bottom: 70px !important;
+}
+.expence {
+  color: red;
+}
+.income {
+  color: green;
+}
+.my_btn {
+  border: none;
+}
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+.history {
+    height: 350px;
+}
